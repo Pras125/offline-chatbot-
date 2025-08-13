@@ -1,0 +1,7 @@
+streamlit>=1.33
+pypdf>=4.2
+langchain>=0.2.10
+langchain-community>=0.2.10
+sentence-transformers>=2.2
+faiss-cpu>=1.7.4
+ollama>=0.3.0
